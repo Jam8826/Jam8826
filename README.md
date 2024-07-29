@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning  online Game Framework 
 - 💞️ I’m looking to collaborate on Game Projects
 - 📫 How to reach me +923196034084 or jamshed32672da@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Jamshed Khan 
+- ⚡ Fun fact: learning from mistakes 
 
 <!---
 Jam8826/Jam8826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
